@@ -1,0 +1,27 @@
+{
+  "name": "rendergrid",
+  "version": "1.0.0",
+  "description": "A grid control done entirely with 2D canvas rendering.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cbuteau/rendergrid.git"
+  },
+  "keywords": [
+    "canvas",
+    "grid",
+    "control"
+  ],
+  "author": "cbuteau",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cbuteau/rendergrid/issues"
+  },
+  "homepage": "https://github.com/cbuteau/rendergrid#readme",
+  "dependencies": {
+    "pubsub-js": "^1.8.0"
+  }
+}
